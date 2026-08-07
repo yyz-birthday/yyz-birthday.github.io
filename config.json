@@ -1,0 +1,26 @@
+{
+  "false": true,
+  "name": "yyz",
+  "birthdayTime": "2026-8-7 16:38:00",
+  "userImagePath": "img/yyz.png",
+  "ifHaveGift": true,
+  "homepageText1": "This website is developed by XXX for XXX specifically.",
+  "homepageText2": "And it aims to celebrate yyz's 22th birthday.",
+  "blessText": {
+    "websiteTitle": "birthday",
+    "text1": "yyz！！！",
+    "text2": "✨这是属于你的第二份惊喜✨",
+    "text3": "很幸运能在最美好的青春遇见最美好的你",
+    "text4": "\uD83C\uDF89希望你能在今后越来越优秀，越来越漂亮！\uD83C\uDF89",
+    "text5": "非常非常非常诚挚地祝福你：生日快乐！！！",
+    "text6": "在今天这个特别的日子里",
+    "text7": "我决定做一些",
+    "text8": "特别的祝福",
+    "text9": "因为———",
+    "text10": "你，是特别的人",
+    "wishHead": "祝愿yyz：",
+    "wishText": "心弦无绊，所求皆愿。岁岁年年，充满晴朗，美好如愿。",
+    "giftText": "我为你准备的小的礼物！你今天可以去打开看看啦ヾ(≧ ▽ ≦)ゝ"
+  },
+  "githubUrl": ""
+}
